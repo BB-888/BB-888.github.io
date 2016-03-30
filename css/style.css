@@ -1,0 +1,26 @@
+h1 {
+  color: blue; 
+}
+body{
+  color:white;
+  background-color:#8a0808;
+  width: 800px;
+  margin: 0 auto
+} 
+p{  
+  color: blue; 
+}
+
+.redtext{  
+    color: red;
+}
+#whitetext{
+  color: white;
+}
+img {
+
+	width: 200px;
+}
+     #bernierules{width:400px;
+
+}
