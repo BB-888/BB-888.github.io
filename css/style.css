@@ -29,7 +29,9 @@ img {
 position: relative; 
  left:50%; 
 }
-
+ #trollbutt{
+  width:260px
+ }
 
 button{
   
