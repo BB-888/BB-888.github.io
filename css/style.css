@@ -24,3 +24,8 @@ img {
      #bernierules{width:400px;
 
 }
+
+.move{
+position: relative; 
+ left:50%; 
+}
